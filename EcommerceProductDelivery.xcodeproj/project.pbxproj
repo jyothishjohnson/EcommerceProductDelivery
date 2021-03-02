@@ -15,6 +15,7 @@
 		222B62B425EE04C1002FD951 /* DeliveryPositionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 222B62B025EE04C1002FD951 /* DeliveryPositionView.swift */; };
 		222B62B525EE04C1002FD951 /* DeliveryStatusView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 222B62B125EE04C1002FD951 /* DeliveryStatusView.swift */; };
 		222B62B925EE04E8002FD951 /* Color+Codable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 222B62B825EE04E8002FD951 /* Color+Codable.swift */; };
+		222B62BC25EE0867002FD951 /* Screenshot 2021-03-02 at 11.07.19 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 222B62BB25EE0867002FD951 /* Screenshot 2021-03-02 at 11.07.19 AM.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		222B62B025EE04C1002FD951 /* DeliveryPositionView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DeliveryPositionView.swift; sourceTree = "<group>"; };
 		222B62B125EE04C1002FD951 /* DeliveryStatusView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DeliveryStatusView.swift; sourceTree = "<group>"; };
 		222B62B825EE04E8002FD951 /* Color+Codable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Color+Codable.swift"; sourceTree = "<group>"; };
+		222B62BB25EE0867002FD951 /* Screenshot 2021-03-02 at 11.07.19 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screenshot 2021-03-02 at 11.07.19 AM.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -46,6 +48,7 @@
 			children = (
 				222B629C25EE0493002FD951 /* EcommerceProductDelivery */,
 				222B629B25EE0493002FD951 /* Products */,
+				222B62BB25EE0867002FD951 /* Screenshot 2021-03-02 at 11.07.19 AM.png */,
 			);
 			sourceTree = "<group>";
 		};
@@ -138,6 +141,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				222B62BC25EE0867002FD951 /* Screenshot 2021-03-02 at 11.07.19 AM.png in Resources */,
 				222B62A525EE0495002FD951 /* Preview Assets.xcassets in Resources */,
 				222B62A225EE0495002FD951 /* Assets.xcassets in Resources */,
 			);
