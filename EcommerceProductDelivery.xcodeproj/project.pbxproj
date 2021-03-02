@@ -16,6 +16,10 @@
 		222B62B525EE04C1002FD951 /* DeliveryStatusView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 222B62B125EE04C1002FD951 /* DeliveryStatusView.swift */; };
 		222B62B925EE04E8002FD951 /* Color+Codable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 222B62B825EE04E8002FD951 /* Color+Codable.swift */; };
 		222B62BC25EE0867002FD951 /* Screenshot 2021-03-02 at 11.07.19 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 222B62BB25EE0867002FD951 /* Screenshot 2021-03-02 at 11.07.19 AM.png */; };
+		222B62BF25EE0910002FD951 /* Screenshot 2021-03-02 at 11.17.54 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 222B62BE25EE0910002FD951 /* Screenshot 2021-03-02 at 11.17.54 AM.png */; };
+		222B62C225EE092B002FD951 /* Screenshot 2021-03-02 at 11.18.23 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 222B62C125EE092B002FD951 /* Screenshot 2021-03-02 at 11.18.23 AM.png */; };
+		222B62C525EE093F002FD951 /* Screenshot 2021-03-02 at 11.18.40 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 222B62C425EE093F002FD951 /* Screenshot 2021-03-02 at 11.18.40 AM.png */; };
+		222B62CA25EE09BF002FD951 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 222B62C925EE09BF002FD951 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +34,10 @@
 		222B62B125EE04C1002FD951 /* DeliveryStatusView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DeliveryStatusView.swift; sourceTree = "<group>"; };
 		222B62B825EE04E8002FD951 /* Color+Codable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Color+Codable.swift"; sourceTree = "<group>"; };
 		222B62BB25EE0867002FD951 /* Screenshot 2021-03-02 at 11.07.19 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screenshot 2021-03-02 at 11.07.19 AM.png"; sourceTree = "<group>"; };
+		222B62BE25EE0910002FD951 /* Screenshot 2021-03-02 at 11.17.54 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screenshot 2021-03-02 at 11.17.54 AM.png"; sourceTree = "<group>"; };
+		222B62C125EE092B002FD951 /* Screenshot 2021-03-02 at 11.18.23 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screenshot 2021-03-02 at 11.18.23 AM.png"; sourceTree = "<group>"; };
+		222B62C425EE093F002FD951 /* Screenshot 2021-03-02 at 11.18.40 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screenshot 2021-03-02 at 11.18.40 AM.png"; sourceTree = "<group>"; };
+		222B62C925EE09BF002FD951 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -49,6 +57,9 @@
 				222B629C25EE0493002FD951 /* EcommerceProductDelivery */,
 				222B629B25EE0493002FD951 /* Products */,
 				222B62BB25EE0867002FD951 /* Screenshot 2021-03-02 at 11.07.19 AM.png */,
+				222B62BE25EE0910002FD951 /* Screenshot 2021-03-02 at 11.17.54 AM.png */,
+				222B62C125EE092B002FD951 /* Screenshot 2021-03-02 at 11.18.23 AM.png */,
+				222B62C425EE093F002FD951 /* Screenshot 2021-03-02 at 11.18.40 AM.png */,
 			);
 			sourceTree = "<group>";
 		};
@@ -64,6 +75,7 @@
 			isa = PBXGroup;
 			children = (
 				222B629D25EE0493002FD951 /* EcommerceProductDeliveryApp.swift */,
+				222B62C925EE09BF002FD951 /* README.md */,
 				222B62B025EE04C1002FD951 /* DeliveryPositionView.swift */,
 				222B62AE25EE04C1002FD951 /* DeliveryProductView.swift */,
 				222B62AF25EE04C1002FD951 /* DeliverySourceDestinationNameView.swift */,
@@ -144,6 +156,10 @@
 				222B62BC25EE0867002FD951 /* Screenshot 2021-03-02 at 11.07.19 AM.png in Resources */,
 				222B62A525EE0495002FD951 /* Preview Assets.xcassets in Resources */,
 				222B62A225EE0495002FD951 /* Assets.xcassets in Resources */,
+				222B62CA25EE09BF002FD951 /* README.md in Resources */,
+				222B62C525EE093F002FD951 /* Screenshot 2021-03-02 at 11.18.40 AM.png in Resources */,
+				222B62C225EE092B002FD951 /* Screenshot 2021-03-02 at 11.18.23 AM.png in Resources */,
+				222B62BF25EE0910002FD951 /* Screenshot 2021-03-02 at 11.17.54 AM.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
